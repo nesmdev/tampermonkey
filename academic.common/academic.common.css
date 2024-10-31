@@ -1,0 +1,19 @@
+.nchapter {
+	border: 2px solid #007596;
+}
+
+.nclicked {
+	background-color: gray;
+	color: white;
+}
+
+.ndownloadable {
+	border: 3px solid green;
+}
+
+.nfun{
+	font-style: italic;
+}
+/*body{
+	color:green;
+}*/
